@@ -25,7 +25,6 @@ ________________________________________________________________________________
 |  Labor & Value Theory |  How would value be created and distributed when machines outcompete human labor?  |
 |-----------------------|------------------------------------------------------------------------------------|
 |  Capital & Ownership  |   Who owns the means of ownership & what does it imply about capital allocation?   |
-|-----------------------|------------------------------------------------------------------------------------|
 |  Governance & Policy  |                                                                                    |
 |-----------------------|------------------------------------------------------------------------------------|
 |   Economic Modeling   |                                                                                    |
