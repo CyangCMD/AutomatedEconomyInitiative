@@ -10,7 +10,7 @@ Modern economics explains how humans allocate scarce resources. Modern governanc
 AI breaks all three simultaneously.
 
 Labor is no longer the primary input to value. Capital that can replicate itself, learn, and improve without human input does not fit into any existing production function cleanly.
-Governance has no framework for non-human agents. When an AI system makes a consequential decision — economic, legal, social - existing institutions have no coherent answer for accountability, representation, or rights.
+Governance has no framework for non-human agents. When an AI system makes a consequential decision - economic, legal, social - existing institutions have no coherent answer for accountability, representation, or rights.
 Scarcity assumptions collapse under AI-driven abundance. The core mechanism of price theory - scarcity signals driving allocation - degrades when marginal cost approaches zero across entire industries simultaneously.
 
 These are not edge cases or long-run concerns. They are structural failures in the current framework, already in motion. Patching existing theory is insufficient. The field this initiative is building starts from different axioms.
@@ -26,13 +26,12 @@ ________________________________________________________________________________
 |-----------------------|------------------------------------------------------------------------------------|
 |  Labor & Value Theory |  How would value be created and distributed when machines outcompete human labor?  |
 |  Capital & Ownership  |   Who owns the means of ownership & what does it imply about capital allocation?   |
-|  Governance & Policy  |  What role would governance play in a world of agentic intelligence                |
-|   Economic Modeling   |                                                                                    |
+|  Governance & Policy  |  What role would governance play in a world of agentic intelligence?                |
+|   Economic Modeling   |How does value get modeled and allocated when the primary inputs are no longer human?|
 |        Ethics         |                                                                                    |
 |  Geopolitics & Power  |                                                                                    |
 |   Social Contracting  |                                                                                    |
-|  Culture & Meaning    |                                                                                    |
-| Distribution of Capital|                                                                                   |
+|  Culture & Meaning    |                                                                                    |                                                                                  |
 
 
 # Founding Axioms
@@ -45,9 +44,9 @@ depend on human-centric aggregates.
 
 - Abundance does not solve distribution: A post-scarcity economy does not automatically produce equity. The political economy of plenty is as contested as the political economy of scarcity, and less studied.
 
-
+- 
 
 
 # Status of The Initiative
 
-Currently under construction. 
+Currently under construction. We will release a Version 1.0 once the skeleton of the Initiative is publishd.
