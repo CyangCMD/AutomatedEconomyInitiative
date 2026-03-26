@@ -1,9 +1,9 @@
 # AEco Github Walkthrough
----------------------------------------
+
 From: Introduction to AEco
 Date: March 26, 2026
 Author: Cyang
----------------------------------------
+
 
 This is the walkthrough of the AEco Github. All contents are modularized and follow a strict
 assessment protocol to ensure submissions are within respective vectors. Below are the modulars for AEco and what they represent:
@@ -22,4 +22,7 @@ Paths from the founding layer begin to diverge from here. Abstractions from Leve
 
 - Level 4
 
-The final level of AEco. Each path matures on this level and can afford to be experimental. 
+The final level of AEco. Each path matures on this level and can afford to be experimental. Downstream effects on culture, policies, economic conditions and whatnot are observed here. There is room to make hypotheses and experiment with custom additions.
+
+
+
