@@ -1,6 +1,6 @@
-# Tier 3 Axiomatics 
+# Tier 1 Axiomatics
 
-From: Tier 3
+From: Tier_1 / AEco_Skeleton
 
 Date: March 26, 2026
 

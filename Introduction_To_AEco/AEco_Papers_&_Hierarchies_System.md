@@ -1,6 +1,6 @@
-# AEco Contribution Guidelines
+# AEco Papers & Hierarchies System
 
-From: Introduction to AEco
+From: Introduction_To_AEco
 
 Date: March 26, 2026
 
@@ -8,7 +8,7 @@ Author: Cyang
 
 ---------------------------------
 
-This is the Contribution Guidelines for AEco. Here, people that seek to contribute should abide by these protocols to keep a uniform stance. 
+This is the Papers and Hierarchy System Explanation for AEco. Everything from how papers are written to how hierarchies are utilized is explained down below:
 
 
 # Paper Template Protocol
@@ -16,5 +16,9 @@ This is the Contribution Guidelines for AEco. Here, people that seek to contribu
 Because this is a repository that can spans every paradigm, every modular that exists in their paradigm would be built on an inherited tree of concepts; each depending on the axiomatics of the previous modular                  (SEE AEco_Modularization.md for info).
 
 The kind of protocol would vary between tiers and their respective modular. However the protocol follows a consistent template that lists the author's name, date, paper title, tree dependance, axiomatics and purpose.
+
+( UNFINISHED )
+
+# Hierarchies/Link-Trees
 
 ( UNFINISHED )

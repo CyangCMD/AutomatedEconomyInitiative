@@ -70,6 +70,10 @@ The Automated Economy Initiative's aim is to become an open reference for every 
 
 
 
+# Status of The Initiative
+
+Currently Under Construction. Version 1.0 will be released in a short notice.
+
 # License
 
 Research content: CC BY 4.0. Code and models: MIT license.
