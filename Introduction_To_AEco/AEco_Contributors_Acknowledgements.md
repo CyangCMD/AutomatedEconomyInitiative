@@ -8,8 +8,8 @@ Author: Cyang
 
 ------------------------------------
 
-@zdzllzh (Cyang) - Skeleton Assembler/Forerunner
+@azdzllzh (Cyang) - Skeleton Assembler/Forerunner
 
 @_gnomon (Gnome) - Epistemics Builder/Machine Learning & Hardware Expert
 
-More Contributors to Join Soon.
+More contributors to join soon.
